@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Can You Hear Me</string>
+    <string name="no_camera_access">โปรดอนุญาต การเข้าถึงกล้อง.</string>
+
+    //MainActivity strings
+    <string name="launchMP">เริ่มใช้งาน</string>
+    <string name="changeLang">Change Language</string>
+    <string name="txtIntro">แอพพลิเคชั่นจัดทำขึ้นเพื่อช่วยเหลือผู้ที่มีปัญหาด้านการสื่อสาร</string>
+
+    //MenuActivity strings
+    <string name="signDetection">แปลภาษามือ</string>
+    <string name="speakIn">แปลงเสียงเป็นข้อความ</string>
+    <string name="out_message">เลือกเมนู แปลภาษามือ เพื่อเรียกใช้ฟังก์ชั่นการแปลภาษามือ หรือ เลือก เมนู แปลงข้อความเป็นเสียง เพื่อเรียกใช้ฟังก์ชั่นการแปลงข้อความที่ได้รับออกมาเป็นเสียง.</string>
+    <string name="lblPitch">โทน</string>
+    <string name="lblSpeed">ความเร็ว</string>
+    <string name="hintInput">พิมพ์ข้อความคุณที่นี่</string>
+    <string name="speakOut">อ่านออกเสียง</string>
+
+</resources>
